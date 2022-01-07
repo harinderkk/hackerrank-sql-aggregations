@@ -4,4 +4,10 @@ Input Format
 
 The CITY table is described as follows:
 
-select * from city
+  CITY
+Field Type
+id  number
+name  varchar(17)
+countrycode varchar2(3)
+district  varchar2(20)
+population  number
