@@ -11,3 +11,16 @@ name  varchar(17)
 countrycode varchar2(3)
 district  varchar2(20)
 population  number
+
+
+{| class="wikitable"
+|+ Caption text
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
